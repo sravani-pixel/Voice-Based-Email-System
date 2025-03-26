@@ -1,0 +1,8 @@
+pip install numpy==1.19.2
+pip install Django==2.1.7
+pip install gTTS==2.2.2
+pip install gTTS-token==1.1.4
+pip install PyAudio==0.2.13
+pip install playsound==1.2.2
+pip install PyMySQL==0.9.3
+pip install SpeechRecognition==3.8.1
